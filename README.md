@@ -1,5 +1,7 @@
 # studyflow-mvp
 
+[Entrar al prototipo](https://kraken-va.github.io/studyflow-mvp/)
+
 
 ## **6.7. Entregable modelo (ejemplo): sistema de operaciones de StudyFlow**
 
